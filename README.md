@@ -7,7 +7,7 @@ In the northern states of India, fog and haze often reduce visibility to **5-10 
 
 https://github.com/user-attachments/assets/3560964a-40d6-41ee-b952-921f737c1835
 
-### codebase still under development will be adding all of them soon.
+### The codebase is proprietary—access will be granted post a thorough review by our team. Feel free to reach out via the Gmail below. I’ll be adding all relevant materials here soon.
 ---
 
 ## 🛠️ Key Features
@@ -82,7 +82,7 @@ The real-time object detection will start, providing enhanced visibility in low-
 
 ## 👥 Contributors
 
-- **J.V.S Chandraditya**
+- **J.V.S Chandraditya** <a href = "mailto:adithya.jvsc@gmail.com">Contact Me for Access to Code Base</a>
 - **Siddharth Verma**
 - **Dharaneesh Guttikonda**
 - **Anurag Sahu**
