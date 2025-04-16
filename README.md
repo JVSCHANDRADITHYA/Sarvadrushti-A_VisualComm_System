@@ -13,7 +13,8 @@ https://github.com/user-attachments/assets/3560964a-40d6-41ee-b952-921f737c1835
 ## 🛠️ Key Features
 - **Real-Time Object Detection**: Identifies vehicles and obstacles beyond visual range using LiDAR and deep learning.
 - **Enhanced Visibility**: Visualizes objects even in extreme fog or haze conditions.
-- **Driver Assistance**: Provides critical information to drivers, helping them make informed decisions in low visibility. 
+- **Driver Assistance**: Provides critical information to drivers, helping them make informed decisions in low visibility.
+
 ![Model Processing](in_out.png.png)
 
 ## 📸 Test Input Samples
